@@ -10,7 +10,7 @@ setup(
     author_email = "danielhamen92@gmail.com",
     url = "https://github.com/danielhamen",
     download_url = "https://github.com/user/reponame/archive/v_01.tar.gz",
-    keywords = ["SOME", "MEANINGFULL", "KEYWORDS"],
+    keywords = ["return", "print", "newline"],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
