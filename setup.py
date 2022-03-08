@@ -9,7 +9,7 @@ setup(
     author = "Daniel Hamen",
     author_email = "danielhamen92@gmail.com",
     url = "https://github.com/danielhamen",
-    download_url = "https://github.com/user/reponame/archive/v_01.tar.gz",
+    download_url = "https://github.com/danielhamen/Break-Python/archive/refs/tags/1.0.0.tar.gz",
     keywords = ["return", "print", "newline"],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
